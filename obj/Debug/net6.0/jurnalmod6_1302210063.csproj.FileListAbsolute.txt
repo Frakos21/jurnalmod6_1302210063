@@ -1,0 +1,5 @@
+C:\Users\PRAKTIKAN\Documents\jurnalmod6_1302210063\jurnalmod6_1302210063\obj\Debug\net6.0\jurnalmod6_1302210063.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\jurnalmod6_1302210063\jurnalmod6_1302210063\obj\Debug\net6.0\jurnalmod6_1302210063.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Documents\jurnalmod6_1302210063\jurnalmod6_1302210063\obj\Debug\net6.0\jurnalmod6_1302210063.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Documents\jurnalmod6_1302210063\jurnalmod6_1302210063\obj\Debug\net6.0\jurnalmod6_1302210063.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Documents\jurnalmod6_1302210063\jurnalmod6_1302210063\obj\Debug\net6.0\jurnalmod6_1302210063.csproj.CoreCompileInputs.cache
