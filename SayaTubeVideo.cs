@@ -13,7 +13,7 @@ namespace jurnalmod6_1302210063
         private String title;
         private int PlayCount;
 
-        public SayaTubeVideo(int id, String title, int PlayCount)
+        public SayaTubeVideo(String title)
         {
             this.id = id;   
             this.title = title;
